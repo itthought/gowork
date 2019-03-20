@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+protoc -I /Users/r.shyam/workspace/Go/src/protobuf-example --go_out=/Users/r.shyam/workspace/Go/src/protobuf-example/simple /Users/r.shyam/workspace/Go/src/protobuf-example/simple.proto
